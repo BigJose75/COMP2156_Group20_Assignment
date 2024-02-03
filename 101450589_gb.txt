@@ -3,3 +3,24 @@ George Brown College opened its doors in 1968, welcoming just over 2,000 student
 Since then, our full-time student population has grown to around 30,000. People come to George Brown from across the Greater Toronto Area, the country and the world to develop the skills and gain the real-world experience needed to succeed in the workplace.
 
 Since 2004, George Brown has more than doubled in size, broadened our international partnerships and increased our commitment to strengthening the cultural, economic and social fabric of Toronto.
+
+Computer Systems Technician Program (T141)
+==========================================
+The two-year Computer Systems Technician diploma program will give you a broad and in-depth technical base, through courses in the high-demand areas of system support, network administration, and web technologies. Upon graduation, you'll have the strong administration, troubleshooting, and design skills you need for a successful career in IT. After graduating, you'll be prepared to write several industry certification exams, making you ready to fulfil the demand for skilled employees in this field.
+
+The graduate has reliably demonstrated the ability to:
+
+    - Identify, analyze, develop, implement, verify and document the requirements for a computing environment.
+    - Contribute to the diagnostics, troubleshooting, documenting and monitoring of technical problems using appropriate methodologies and tools.
+    - Implement and maintain secure computing environments.
+    - Implement robust computing system solutions through validation testing that aligns with industry best practices.
+    - Communicate and collaborate with team members and stakeholders to ensure effective working relationships.
+    - Select and apply strategies for personal and professional development to enhance work performance.
+    - Adhere to ethical, legal and regulatory requirements and/or principles in the development and management of computing solutions and systems.
+    - Assist with the implementation of computer systems.
+    - Install, configure, troubleshoot, maintain, upgrade and decommission computing system infrastructures.
+    - Automate routine tasks using scripting tools and programming languages.
+    - Provide technical support for computing system infrastructures that aligns with industry best practice.
+    - Implement the basic concept, principles, and scope of DevOps.
+    - Apply task automation using configuration management and the Cloud.
+    - Automate network administrative tasks across distributed clients.
