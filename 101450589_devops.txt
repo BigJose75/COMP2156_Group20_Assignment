@@ -7,3 +7,12 @@ DevOps is the practice of operations and development engineers participating tog
 
 DevOps is also characterized by operations staff making use of many of the same techniques as developers for their systems work, and development staff creating applications designed to work well in an operational environment.
 
+Tools Involved in DevOps:
+
+Code: Confluence, Jira, Git
+Build: SBT, Maven
+Test: SE, JUnit
+Release: Jenkins, Codeship
+Deploy: DC/OS, Docker, AWS
+Operate: Chef, Ansible, Kubernets
+Monitor: Nagios, Splunk, Datadog
