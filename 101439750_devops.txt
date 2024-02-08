@@ -12,3 +12,7 @@ Under a DevOps model, development and operations teams are no longer â€œsiloed.â
 
  Content of COMP2156 DevOps course 
 This course contain many informations such : course syllabus, evaluation Timetable,materials, quizzes, lab exercises, assignments and exams.
+
+The Professor of the course
+ The name of the professor is Pritesh Patel
+
