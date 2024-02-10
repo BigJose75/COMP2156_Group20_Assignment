@@ -1,0 +1,2 @@
+Learning about DevOps engineering is crucial in the software development lifecycle (SDLC) as it helps streamline the process from planning and development to deployment and maintenance. By integrating DevOps practices, team can improve collaboration, increase 
+efficiency, and deliver high-quality software faster.

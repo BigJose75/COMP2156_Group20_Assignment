@@ -1,0 +1,2 @@
+Comp 2156 DeVops course is designed to provide students with a comprehensive understanding of DevOps principles and practices. It covers topics such as continuous integration, continuous deployment, infrastructure as code, and automation tools like Docker and 
+Kubernetes
