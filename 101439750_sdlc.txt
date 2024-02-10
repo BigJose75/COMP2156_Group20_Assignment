@@ -1,0 +1,11 @@
+DevOps Engineers should be involved in the software development process from the very beginning.
+ This way, they can monitor performance testing, production status, security, version control, and updates,
+ increasing the speed and quality of your project development.
+
+The Role of a DevOps engineer in a software development life cycle
+
+A DevOps engineer introduces processes, tools, and methodologies to balance needs
+ throughout the software development life cycle, from coding and deployment, to maintenance 
+and updates. Maybe you want to shift your career to DevOps, or train yourself to drive adoption 
+within your company.
+
