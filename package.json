@@ -1,0 +1,21 @@
+{
+  "name": "COMP2156 Group 20 Assignment",
+  "version": "1.0.0",
+  "description": "Package for Group 20 Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "ci": "echo \"Error: no CI configured\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BigJose75/COMP2156_Group20_Assignment.git"
+  },
+  "keywords": [],
+  "author": "Jose Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BigJose75/COMP2156/_Group20_Assignmentissues"
+  },
+  "homepage": "https://github.com/BigJose75/COMP2156_Group20_Assignment#readme"
+}
